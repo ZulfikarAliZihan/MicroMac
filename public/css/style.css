@@ -1,0 +1,42 @@
+
+/**
+Overwrite CSS
+*/
+.bg-light {
+    background-color: #2fd9ff!important;
+}
+
+
+
+.margin-top-20{
+    margin-top: 20px;
+}
+
+.feature-image{
+    max-height: 200px;
+}
+
+.footer-bottom{
+    padding: 20px;
+    margin-top: 20px;
+    background: #2fd9ff;
+}
+.star_red{
+    color: red;
+}
+
+.hr_dotted {
+    border-top: 1px dashed black;
+  }
+
+.center_align{
+    align-self: center;
+}
+
+.script_msg1{
+    margin: 10px;
+    padding-left: 1%;
+   background-color: navajowhite;
+   color: rgb(255, 0, 0); 
+   text-decoration-color: orangered;
+}
